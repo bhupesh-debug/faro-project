@@ -8,7 +8,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn)
 ![statsmodels](https://img.shields.io/badge/statsmodels-0.14%2B-lightblue)
 
-🔗 **[Live Dashboard Demo](https://www.perplexity.ai/computer/a/faro-financial-analytics-dashb-lVZ60PUVRyK7egeui9VcRA)**
+🔗 **[Live Real-Time Web Application](https://bhupesh-debug.github.io/faro-project/)** | **[Live Dashboard Demo](https://www.perplexity.ai/computer/a/faro-financial-analytics-dashb-lVZ60PUVRyK7egeui9VcRA)**
 
 ---
 
